@@ -1,6 +1,6 @@
 # Udacity_Machine_Learining_NanoDegree
 
-Welcome to my Udacity Machine Learning NanoDegree workbench. I will store my portfolio projects here. 
+Welcome to my [Udacity Machine Learning NanoDegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t) workbench. I will store my portfolio projects here. 
 
 ## Structure 
 1. The IMDb Sentimenent Analysis Project Using Pytorch and RNN could be found [here](https://github.com/bormaley999/Udacity_Machine_Learining_NanoDegree/tree/master/Udacity_Machine_Learining_NanoDegree/imbD%20Sentiment%20Analysis) the reason for folder's devision is simple - each folder represents a standalone project. 
