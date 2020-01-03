@@ -4,7 +4,7 @@ The notebook and Python files provided here, once completed, result in a simple 
 
 Please see the [README](https://github.com/udacity/sagemaker-deployment/tree/master/README.md) from Udacity's main folder for instructions on setting up a SageMaker notebook and downloading the project files (as well as the other notebooks).
 
-# Dependacies 
+# Dependencies
 
 To run the project you need to download the Index.html file and run it in a browser. However, before you begin you have to ask me to turn-on Sagemaker's API endpoint to execute the project; this is because the project is hosting on AWS. Hence, I will do that for an interview or review process only. 
 
