@@ -1,4 +1,4 @@
-# Udacity Machine Learning NanoDegre Project 1 | imbB Sentiment Analysis Project using RNN based on PyTorch
+# Udacity Machine Learning NanoDegree Project 1 | imbB Sentiment Analysis Project using RNN based on PyTorch
 
 The notebook and Python files provided here, once completed, result in a simple web app which interacts with a deployed recurrent neural network performing sentiment analysis on movie reviews.
 
