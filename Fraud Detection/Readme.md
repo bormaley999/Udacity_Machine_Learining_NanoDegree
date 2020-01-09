@@ -20,4 +20,4 @@ The payment fraud data set (Dal Pozzolo et al. 2015) was downloaded from [Kaggle
 
 ## Setup Instructions
 
-The notebooks provided in this repository are intended to be executed using Amazon's SageMaker platform. 
+The notebooks provided in this repository are intended to be executed using Amazon's SageMaker platform. Also, in order to reproduce the code in Notebook, please, refer to the original source of the project section.
