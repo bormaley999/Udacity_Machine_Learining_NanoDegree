@@ -1,4 +1,4 @@
-# Moon Data Classification \ Deploying Custom PyTorch Model
+# Moon Data Classification / Deploying Custom PyTorch Model
 
 In this notebook, you'll employ two, unsupervised learning algorithms to do **population segmentation**. Population segmentation aims to find natural groupings in population data that reveal some feature-level similarities between different regions in the US.
 
