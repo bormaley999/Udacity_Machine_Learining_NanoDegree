@@ -3,7 +3,7 @@
 Welcome to my [Udacity Machine Learning NanoDegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t) workbench. I will store my portfolio projects here. 
 
 ## Structure 
-1. **The IMDb Sentimenent Analysis Project Using Pytorch and RNN** could be found [here](https://github.com/bormaley999/Udacity_Machine_Learining_NanoDegree/tree/master/Udacity_Machine_Learining_NanoDegree/imbD%20Sentiment%20Analysis) the reason for folder's devision is simple - each folder represents a standalone project. 
+1. **The IMDb Sentiment Analysis Project Using Pytorch and RNN** could be found [here](https://github.com/bormaley999/Udacity_Machine_Learining_NanoDegree/tree/master/Udacity_Machine_Learining_NanoDegree/imbD%20Sentiment%20Analysis) the reason for folder's devision is simple - each folder represents a standalone project. 
 <br>_Short Overview of the Project_<br>
 The notebook and Python files provided here, once completed, result in a simple web app which interacts with a deployed recurrent neural network performing sentiment analysis on movie reviews.
 Please see the README from Udacity's main folder for instructions on setting up a SageMaker notebook and downloading the project files (as well as the other notebooks).
@@ -30,7 +30,7 @@ In this project, we'll employ two, unsupervised learning algorithms to do popula
 
 
 ## Dependacies 
-Also, it is important to note that in order to run some projects (e.g. IMDb Sentimenent Analysis), I have to run turn-on AWS Sagemaker API which is costly, so I will do that ONLY for an interview or review processes only.
+Also, it is important to note that in order to run some projects (e.g. IMDb Sentimenent Analysis), I have to turn-on an AWS Sagemaker API which is costly, so I will do that ONLY for an interview or review processes.
 
 If you would like to have fun playing around with this project you have to set up AWS instance for yourself. The description of how to do that is presented in the README file above. Alternatively, you could check sagemaker-deployment (https://github.com/udacity/sagemaker-deployment) folder I forked from Udacity.
 
