@@ -10,20 +10,20 @@ Please see the README from Udacity's main folder for instructions on setting up 
 The link to [README](https://github.com/bormaley999/Udacity_Machine_Learining_NanoDegree/blob/master/Udacity_Machine_Learining_NanoDegree/imbD%20Sentiment%20Analysis/README.md) file about the IMDb Sentiment Analysis Project using PyTorch.
 
 
-2. **Detecting Payment Card Fraud** could be found [here](https://github.com/bormaley999/Udacity_Machine_Learining_NanoDegree/tree/master/Fraud%20Detection)
+2. **Detecting Payment Card Fraud** could be found [here](https://github.com/bormaley999/Udacity_Machine_Learining_NanoDegree/tree/master/Fraud%20Detection).
 <br>_Short Overview of the Project_<br>
 In this project, we'll look at a credit card fraud detection dataset, and build a binary classification model that can identify transactions as either fraudulent or valid, based on provided, historical data.
 Detailed project description could be found in the Project Notebook in the project folder. 
-The link to [README](https://github.com/bormaley999/Udacity_Machine_Learining_NanoDegree/blob/master/Fraud%20Detection/Readme.md)
+The link to [README](https://github.com/bormaley999/Udacity_Machine_Learining_NanoDegree/blob/master/Fraud%20Detection/Readme.md).
 
-3. **Moon Data Classification / Deploying Custom PyTorch Model** could be found [here](https://github.com/bormaley999/Udacity_Machine_Learining_NanoDegree/tree/master/Moon%20Data%20Classification%20%5C%20Custom%20PyTorch%20Model)
+3. **Moon Data Classification / Deploying Custom PyTorch Model** could be found [here](https://github.com/bormaley999/Udacity_Machine_Learining_NanoDegree/tree/master/Moon%20Data%20Classification%20%5C%20Custom%20PyTorch%20Model).
 <br>_Short Overview of the Project_<br>
 In this project, we'll employ two, unsupervised learning algorithms to do population segmentation. Population segmentation aims to find natural groupings in population data that reveal some feature-level similarities between different regions in the US.
 Detailed project description could be found in the Project Notebook in the project folder. 
-The link to [README](https://github.com/bormaley999/Udacity_Machine_Learining_NanoDegree/blob/master/Moon%20Data%20Classification%20%5C%20Custom%20PyTorch%20Model/Readme.md)
+The link to [README](https://github.com/bormaley999/Udacity_Machine_Learining_NanoDegree/blob/master/Moon%20Data%20Classification%20%5C%20Custom%20PyTorch%20Model/Readme.md).
 
-4. **Population Segmentation** could be found [here](https://github.com/bormaley999/Udacity_Machine_Learining_NanoDegree/tree/master/Population%20Segmentation%20with%20SageMaker)
-The link to [README](https://github.com/bormaley999/Udacity_Machine_Learining_NanoDegree/blob/master/Population%20Segmentation%20with%20SageMaker/Readme.md)
+4. **Population Segmentation** could be found [here](https://github.com/bormaley999/Udacity_Machine_Learining_NanoDegree/tree/master/Population%20Segmentation%20with%20SageMaker).
+The link to [README](https://github.com/bormaley999/Udacity_Machine_Learining_NanoDegree/blob/master/Population%20Segmentation%20with%20SageMaker/Readme.md).
 <br>_Short Overview of the Project_<br>
 In this project, we'll employ two, unsupervised learning algorithms to do population segmentation. Population segmentation aims to find natural groupings in population data that reveal some feature-level similarities between different regions in the US. Detailed project description could be found in the Project Notebook in the project folder. 
 
