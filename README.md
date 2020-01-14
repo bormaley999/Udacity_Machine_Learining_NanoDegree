@@ -27,6 +27,10 @@ The link to [README](https://github.com/bormaley999/Udacity_Machine_Learining_Na
 <br>_Short Overview of the Project_<br>
 In this project, we'll employ two, unsupervised learning algorithms to do population segmentation. Population segmentation aims to find natural groupings in population data that reveal some feature-level similarities between different regions in the US. Detailed project description could be found in the Project Notebook in the project folder. 
 
+5. **Plagiarism Detector using PyTorch | Sklearn(LinearSVC)** could be found [here](https://github.com/bormaley999/Udacity_Machine_Learining_NanoDegree/tree/master/Plagiarism%20Detector).
+The link to [README](https://github.com/bormaley999/Udacity_Machine_Learining_NanoDegree/blob/master/Plagiarism%20Detector/README.md).
+<br>_Short Overview of the Project_<br>
+In this project, we will be tasked with building a plagiarism detector that examines a text file and performs binary classification; labeling that file as either plagiarized or not, depending on how similar that text file is to a provided source text. Detecting plagiarism is an active area of research; the task is non-trivial and the differences between paraphrased answers and original work are often not so obvious.. 
 
 
 ## Dependacies 
